@@ -174,8 +174,3 @@ update 2025-09-22
 update 2025-09-23
 update 2025-09-24
 update 2025-09-25
-update 2025-09-26
-update 2025-09-27
-update 2025-09-28
-update 2025-09-29
-update 2025-09-30
